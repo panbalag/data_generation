@@ -1,0 +1,6 @@
+transformers
+accelerate
+langchain
+langchain-community 
+langchain-core
+torch
