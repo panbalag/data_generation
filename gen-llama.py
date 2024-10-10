@@ -1,6 +1,11 @@
 from transformers import AutoTokenizer
 from transformers import pipeline
+import json
 import torch
+
+def read_json_file(file_path):
+    with open(file_path, 'r') as file:
+        return json.load(file)
 
 #model = "meta-llama/Llama-2-13b-chat-hf"
 model = "meta-llama/Llama-2-7b-chat-hf"
@@ -34,6 +39,25 @@ def get_llama_response(prompt: str) -> None:
     )
     print("Chatbot:", sequences[0]['generated_text'])
 
-prompt = 'Write a game walkthrough guide for a fictional game called Flipping Waffles?\n'
+file_path = 'names.json'
+keys_to_find = ['games_retro', 'games_fictional']
+data = read_json_file(file_path)
+for item in data['games_retro']:
+  prompt = 'Write a game walkthrough guide for the game '+ item
+  print("Generating game walkthrough guide for "+ item)
+  content = get_llama_response(prompt)
+  file_path = item +".txt"  # You can change this to your desired file name or path
+  print(f"Writing to {file_path}")
+  # Save the content to file
+  with open(file_path, 'w') as file:
+      file.write(str(content))
+  print(f"Content written to {file_path}")
+
+#for item in data['games_fictional']:
+#  prompt = 'Write a game walkthrough guide for the game '+ 'item'
+#  get_llama_response(prompt)
+
+
+prompt = 'Write a game walkthrough guide for the game Pokemon Violet\n'
 get_llama_response(prompt)
 
