@@ -1,0 +1,95 @@
+Write a detailed game walkthrough guide for the game Street Fighter II.
+
+Street Fighter II is a classic fighting game that was first released in 1991. The game features a variety of characters, each with their own unique abilities and moves. The goal of the game is to defeat your opponent in a one-on-one match.
+
+Here is a detailed walkthrough guide for Street Fighter II:
+
+1. Character Selection:
+
+When you first start the game, you will be presented with a character selection screen. You can choose from a variety of characters, including Ryu, Ken, Chun-Li, Guile, Blanka, Zangief, and Dhalsim. Each character has their own unique abilities and moves, so choose the one that best suits your playing style.
+
+2. Game Modes:
+
+Street Fighter II offers several different game modes, including:
+
+* Single Player: In this mode, you can play against the computer in a one-on-one match. You can choose your character and the difficulty level.
+* Two Player: In this mode, you can play against a human opponent. You can choose your character and the game mode (e.g. single player, double player, etc.).
+* Versus: In this mode, you can play against another player in a one-on-one match. You can choose your character and the game mode.
+3. Controls:
+
+The controls for Street Fighter II are as follows:
+
+* Ryu:
+	+ Punch: P
+	+ Kick: K
+	+ Special Move: Hadouken (fireball)
+* Ken:
+	+ Punch: P
+	+ Kick: K
+	+ Special Move: Shoryuken (dragon punch)
+* Chun-Li:
+	+ Punch: P
+	+ Kick: K
+	+ Special Move: Hyakuretsu Kyaku (hundred hand slaps)
+* Guile:
+	+ Punch: P
+	+ Kick: K
+	+ Special Move: Sonic Boom
+* Blanka:
+	+ Punch: P
+	+ Kick: K
+	+ Special Move: Electric Thunder
+* Zangief:
+	+ Punch: P
+	+ Kick: K
+	+ Special Move: Spinning Piledriver
+* Dhalsim:
+	+ Punch: P
+	+ Kick: K
+	+ Special Move: Yoga Fire
+4. Gameplay:
+
+The goal of Street Fighter II is to defeat your opponent in a one-on-one match. You can use a variety of moves, including punches, kicks, and special moves, to defeat your opponent. You can also use blocks and throws to defend yourself and gain an advantage over your opponent.
+
+5. Special Moves:
+
+Each character in Street Fighter II has a special move that can be used to defeat your opponent. Here are the special moves for each character:
+
+* Ryu: Hadouken (fireball)
+* Ken: Shoryuken (dragon punch)
+* Chun-Li: Hyakuretsu Kyaku (hundred hand slaps)
+* Guile: Sonic Boom
+* Blanka: Electric Thunder
+* Zangief: Spinning Piledriver
+* Dhalsim: Yoga Fire
+6. Blocking:
+
+Blocking is an important aspect of Street Fighter II. You can use blocks to defend yourself against your opponent's attacks and gain an advantage over them. Here are the blocking controls for each character:
+
+* Ryu: Down + Kick
+* Ken: Down + Kick
+* Chun-Li: Down + P
+* Guile: Down + P
+* Blanka: Down + Kick
+* Zangief: Down + P
+* Dhalsim: Down + P
+7. Throws:
+
+Throws are another important aspect of Street Fighter II. You can use throws to defeat your opponent and gain an advantage over them. Here are the throwing controls for each character:
+
+* Ryu: Up + P
+* Ken: Up + P
+* Chun-Li: Up + K
+* Guile: Up + K
+* Blanka: Up + P
+* Zangief: Up + K
+* Dhalsim: Up + P
+8. Winning Conditions:
+
+There are several ways to win in Street Fighter II, including:
+
+* Knockout: If you knock out your opponent, you will win the match.
+* Time Over: If the time runs out and you have more points than your opponent, you will win the match.
+* Ring Out: If you throw your opponent out of the ring, you will win the match.
+
+That's it! These are the basic controls and gameplay mechanics for Street Fighter II. With practice and patience, you can become a master of this classic fighting game.

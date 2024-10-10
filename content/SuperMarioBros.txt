@@ -1,0 +1,147 @@
+Write a detailed game walkthrough guide for the game Super Mario Bros. 3.
+
+Super Mario Bros. 3 is a classic platformer game that was released in 1988 for the Nintendo Entertainment System (NES) console. The game is the third installment in the Super Mario series and is widely considered one of the greatest video games of all time. In this walkthrough guide, we will provide a detailed overview of the game's story, gameplay, and all the power-ups and secrets that Mario can collect.
+
+Story:
+
+The game's story follows Mario and Luigi as they try to rescue Princess Peach from the clutches of the evil Bowser. Bowser has stolen the Princess and taken her to his castle, and it's up to Mario and Luigi to rescue her. The game is divided into eight worlds, each with four levels, and each level has a different theme, such as desert, sea, sky, and so on.
+
+Gameplay:
+
+Super Mario Bros. 3 is a platformer game that requires players to navigate through levels, collecting power-ups and coins while avoiding enemies. The game features a variety of power-ups, such as mushrooms, fire flowers, and stars, that give Mario and Luigi new abilities and powers.
+
+Power-ups:
+
+* Mushrooms: Give Mario and Luigi an extra life and make them bigger and stronger.
+* Fire Flowers: Allow Mario and Luigi to shoot fireballs at enemies.
+* Stars: Make Mario and Luigi invincible for a short period of time.
+
+Secrets:
+
+* Warp Pipes: These pipes allow Mario and Luigi to travel to different worlds and levels.
+* Secret Warp Pipes: These pipes can be found hidden in certain levels and allow players to access secret levels and worlds.
+* Power-up Mushrooms: These mushrooms contain power-ups such as fire flowers and stars.
+
+World 1:
+
+* Level 1: Desert Land
+	+ Goomba, Koopa Troopa, and Bob-omb are the main enemies in this level.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Desert Land II
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Desert Land III
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Desert Land IV
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+World 2:
+
+* Level 1: Sea Side
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Sea Side II
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Sea Side III
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Sea Side IV
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+World 3:
+
+* Level 1: Sky Land
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Sky Land II
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Sky Land III
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Sky Land IV
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+World 4:
+
+* Level 1: Pipe Land
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Pipe Land II
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Pipe Land III
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Pipe Land IV
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+World 5:
+
+* Level 1: Castle Grounds
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Castle Grounds II
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Castle Grounds III
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Castle Grounds IV
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+World 6:
+
+* Level 1: Sky Island
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Sky Island II
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Sky Island III
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Sky Island IV
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+World 7:
+
+* Level 1: Underground Bunker
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Underground Bunker II
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Underground Bunker III
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Underground Bunker IV
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+World 8:
+
+* Level 1: Bowser's Castle
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The first power-up is a mushroom, which can be found in the first cave.
+* Level 2: Bowser's Castle II
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The second power-up is a fire flower, which can be found in the second cave.
+* Level 3: Bowser's Castle III
+	+ The main enemies in this level are Goomba and Koopa Troopa.
+	+ The third power-up is a star, which can be found in the third cave.
+* Level 4: Bowser's Castle IV
+	+ The main enemies in this level are Bob-omb and Koopa Troopa.
+	+ The fourth power-up is another mushroom, which can be found in the fourth cave.
+
+Conclusion:
+
+Super Mario Bros. 3 is a classic game that requires players to navigate through levels, collecting power-ups and coins while avoiding enemies. The game features a variety of power-ups, such as mushrooms, fire flowers, and stars, that give Mario and Luigi new abilities and powers. The game also features secret warp pipes and power-up mushrooms that can be found hidden in certain levels. With our detailed walkthrough guide, players can easily complete all eight worlds and rescue Princess Peach from the clutches of Bowser.

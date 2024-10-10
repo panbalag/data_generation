@@ -1,0 +1,19 @@
+Write a detailed game walkthrough guide for the game Pac-Man.
+
+Pac-Man is a classic arcade game that was first released in 1980 by Namco. The game is set in a maze with four ghosts (Blinky, Pinky, Inky, and Clyde) that chase Pac-Man around the maze. The objective of the game is to eat all the pellets in the maze while avoiding the ghosts.
+
+Here is a detailed walkthrough guide for Pac-Man:
+
+1. Start the game: To start the game, press the start button or insert coins into the arcade machine. The game will begin with the title screen displaying the game's name and the current score.
+2. Choose your game mode: Pac-Man offers several game modes, including the classic arcade mode, a timed mode, and a score attack mode. Choose the game mode you want to play by pressing the corresponding button on the arcade machine or using the game's menu on a modern console or PC.
+3. Start the game: Once you've chosen your game mode, the game will begin. You'll control Pac-Man as he navigates the maze, eating pellets and avoiding the ghosts.
+4. Eat pellets: The objective of the game is to eat all the pellets in the maze. You can eat pellets by moving Pac-Man over them. The pellets will disappear, and you'll earn points.
+5. Avoid ghosts: The ghosts (Blinky, Pinky, Inky, and Clyde) will chase Pac-Man around the maze. You'll need to avoid them by moving Pac-Man to a safe location. If a ghost touches Pac-Man, you'll lose a life.
+6. Eat power pellets: Some pellets are power pellets. When you eat a power pellet, you'll turn the tables on the ghosts and they'll start to flee from you. This is a great opportunity to eat a lot of pellets quickly and earn a lot of points.
+7. Use the tunnels: The maze has several tunnels that you can use to avoid the ghosts. You can enter a tunnel by moving Pac-Man into it, and you'll emerge on the other side of the maze.
+8. Use the fruits: Some of the pellets are fruits (cherries, blueberries, and oranges). When you eat a fruit, you'll earn bonus points.
+9. Collect the key: In some levels, there is a key that you can collect to unlock the next level. The key is usually located in a hard-to-reach location, so you'll need to use your skills and strategy to collect it.
+10. Complete the level: The game is divided into several levels, each with its own set of pellets and ghosts. Your goal is to complete each level by eating all the pellets and avoiding the ghosts.
+11. Get a high score: The goal of the game is to get a high score. You can earn points by eating pellets, avoiding ghosts, and collecting power pellets and fruits. Try to beat your previous high score by using strategy and skill.
+
+That's it! With these tips and strategies, you should be able to play Pac-Man like a pro. Good luck and have fun!
