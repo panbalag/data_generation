@@ -2,6 +2,7 @@ from transformers import AutoTokenizer
 from transformers import pipeline
 import json
 import torch
+import re
 
 def read_json_file(file_path):
     with open(file_path, 'r') as file:
@@ -18,7 +19,7 @@ llama_pipeline = pipeline(
     device_map="auto",
 )
 
-def get_llama_response(prompt: str) -> None:
+def get_llama_response(prompt):
     """
     Generate a response from the Llama model.
 
@@ -37,13 +38,15 @@ def get_llama_response(prompt: str) -> None:
         eos_token_id=tokenizer.eos_token_id,
         max_length=4096,
     )
-    print("Chatbot:", sequences[0]['generated_text'])
+    return(sequences[0]['generated_text'])
 
 def gen_content(name):
-  prompt = 'Write a game walkthrough guide for the game '+ name
+  prompt = 'Write a detailed game walkthrough guide for the game '+ name
   print("Generating game walkthrough guide for "+ name)
   content = get_llama_response(prompt)
-  file_path = "content/" + name +".txt"  # You can change this to your desired file name or path
+  file_name = re.sub(r'[^A-Za-z0-9]', '', name)
+  file_name = file_name[:20] if len(file_name) > 20 else file_name
+  file_path = "content/" + file_name +".txt"  # You can change this to your desired file name or path
   print(f"Writing to {file_path}")
   # Save the content to file
   with open(file_path, 'w') as file:
@@ -54,7 +57,7 @@ def gen_content(name):
 file_path = 'names.json'
 keys_to_find = ['games_retro', 'games_fictional']
 data = read_json_file(file_path)
-#for item in data['games_retro']:
-#  gen_content(item)
+for item in data['games_retro']:
+  gen_content(item)
 for item in data['games_fictional']:
   gen_content(item)
