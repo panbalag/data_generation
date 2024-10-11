@@ -57,7 +57,7 @@ def gen_content(name):
 file_path = 'names.json'
 keys_to_find = ['games_retro', 'games_fictional']
 data = read_json_file(file_path)
-for item in data['games_retro']:
-  gen_content(item)
+#for item in data['games_retro']:
+#  gen_content(item)
 for item in data['games_fictional']:
   gen_content(item)
