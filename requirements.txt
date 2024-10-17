@@ -7,7 +7,7 @@ torch
 llama-index-vector-stores-milvus
 llama-index
 unstructured
-install sentence-transformers
+sentence-transformers
 langchain_milvus
 langchain_huggingface
 huggingface_hub
