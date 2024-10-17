@@ -8,10 +8,18 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, LlamaTokenizer, LlamaForCausalLM
 import torch
-#from langchain.llms import HuggingFacePipeline
 from langchain_huggingface import HuggingFacePipeline
 import os
 import re
+from nltk import sent_tokenize
+
+def clean_output(answer):
+   sentences = sent_tokenize(answer)
+   seen = set()
+   unique_sentences = [s for s in sentences if not (s in seen or seen.add(s))]
+   cleaned_answer = ' '.join(unique_sentences)
+   return cleaned_answer
+
 
 def similarity_search(query: str, k: int) -> list[Document]:
     embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2')
@@ -66,7 +74,7 @@ model = LlamaForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, 
 
 
 QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
-hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10, max_length=300)
+hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10, max_new_tokens=2000)
 llm = HuggingFacePipeline(pipeline=hf_pipeline)
 qa_chain = RetrievalQA.from_chain_type(llm=llm, chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}, retriever=vectorstore.as_retriever(), return_source_documents=False)
 question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the fictional game Cyberduck?"
@@ -75,7 +83,7 @@ text = str(result['result'])
 match = re.search(r'Answer:(.*)', text, re.DOTALL)
 if match:
     answer = match.group(1).strip()
-    print(answer)
+    print(clean_output(answer))
 else:
     print("No 'Answer:' found in the text.")
 
