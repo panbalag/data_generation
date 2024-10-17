@@ -1,4 +1,4 @@
-from langchain.embeddings.huggingface import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.document_loaders import DirectoryLoader
 from pymilvus import MilvusClient
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -6,10 +6,10 @@ from langchain_milvus import Milvus
 from langchain_core.documents import Document
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
-from langchain_community.llms import HuggingFaceHub
-from langchain_huggingface import HuggingFaceEndpoint
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, LlamaTokenizer, LlamaForCausalLM
+import torch
+from langchain.llms import HuggingFacePipeline
 import os
-
 
 def similarity_search(query: str, k: int) -> list[Document]:
     embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2')
@@ -25,7 +25,6 @@ def format_docs(docs):
 
 loader = DirectoryLoader('content/', glob="**/*.txt")
 docs = loader.load()
-#print(docs)
 
 embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2')
 
@@ -46,31 +45,35 @@ vectorstore = Milvus.from_documents(
     connection_args={"uri": MILVUS_URL},
 )
 
-#print(similarity_search("Atari retro",k=1))
-query = "What can you tell me about Atari Lynx?"
-vectorstore.similarity_search(query, k=1)
-#retriever = vectorstore.as_retriever()
+#vectorstore.similarity_search(query, k=1)
 
-template="""
-[INST] 
-    <<SYS>>
-        You are an expert in gaming systems and games.
-        You will be given a question you need to answer, and a context to provide you with information. 
-        You must answer the question based as much as possible on this context.
-    <</SYS>>
-    Context: 
-        {context}
-    Question: 
-        {question} 
-[/INST]
+template = """
+You are an expert on gaming systems and games.
+You will be given a question and some context to help you answer it.
+Please provide an accurate and comprehensive response based on the provided context.
+
+Context: 
+{context}
+
+Question: 
+{question}
 """
+
+#Download the model locally
+model_name = "meta-llama/Llama-2-7b-hf" 
+#model_name="meta-llama/Llama-2-13b-hf"
+tokenizer = LlamaTokenizer.from_pretrained(model_name)
+model = LlamaForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map="auto")
 
 
 QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
-HUGGINGFACEHUB_API_TOKEN = "XXXXXXXXXXX"
-llm=HuggingFaceHub(repo_id="google/flan-t5-large", huggingfacehub_api_token=HUGGINGFACEHUB_API_TOKEN, model_kwargs={"temperature":1e-10})
+hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10)
+llm = HuggingFacePipeline(pipeline=hf_pipeline)
 qa_chain = RetrievalQA.from_chain_type(llm=llm, chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}, retriever=vectorstore.as_retriever(), return_source_documents=False)
-question = "What can you tell me about Atari Lynx?"
+question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the fictional game Cyberduck?"
 result = qa_chain.invoke({"query": question})
-print(result)
+print("\n******************************************************************************\n")
+print(result['result'])
+print("\n******************************************************************************\n")
+
 
