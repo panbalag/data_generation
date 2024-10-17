@@ -8,8 +8,10 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, LlamaTokenizer, LlamaForCausalLM
 import torch
-from langchain.llms import HuggingFacePipeline
+#from langchain.llms import HuggingFacePipeline
+from langchain_huggingface import HuggingFacePipeline
 import os
+import re
 
 def similarity_search(query: str, k: int) -> list[Document]:
     embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2')
@@ -48,32 +50,37 @@ vectorstore = Milvus.from_documents(
 #vectorstore.similarity_search(query, k=1)
 
 template = """
-You are an expert on gaming systems and games.
-You will be given a question and some context to help you answer it.
-Please provide an accurate and comprehensive response based on the provided context.
+You are an expert in gaming systems and games. Based on the following context, provide a detailed and actionable answer to the question.
 
-Context: 
+Use the key information from the context provided below.
+
+Context:
 {context}
 
-Question: 
+Question:
 {question}
 """
 
 #Download the model locally
-model_name = "meta-llama/Llama-2-7b-hf" 
-#model_name="meta-llama/Llama-2-13b-hf"
+#model_name = "meta-llama/Llama-2-7b-hf" 
+model_name="meta-llama/Llama-2-13b-hf"
 tokenizer = LlamaTokenizer.from_pretrained(model_name)
 model = LlamaForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map="auto")
 
 
 QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
-hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10)
+hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=0.5)
 llm = HuggingFacePipeline(pipeline=hf_pipeline)
 qa_chain = RetrievalQA.from_chain_type(llm=llm, chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}, retriever=vectorstore.as_retriever(), return_source_documents=False)
 question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the fictional game Cyberduck?"
 result = qa_chain.invoke({"query": question})
-print("\n******************************************************************************\n")
-print(result['result'])
-print("\n******************************************************************************\n")
+text = str(result['result'])
+print(result)
+#match = re.search(r'Answer:(.*)', text, re.DOTALL)
+#if match:
+#    answer = match.group(1).strip()
+#    print(answer)
+#else:
+#    print("No 'Answer:' found in the text.")
 
 
