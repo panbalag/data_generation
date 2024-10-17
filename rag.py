@@ -66,13 +66,12 @@ model = LlamaForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, 
 
 
 QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
-hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10)
+hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10, max_length=300)
 llm = HuggingFacePipeline(pipeline=hf_pipeline)
 qa_chain = RetrievalQA.from_chain_type(llm=llm, chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}, retriever=vectorstore.as_retriever(), return_source_documents=False)
 question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the fictional game Cyberduck?"
 result = qa_chain.invoke({"query": question})
 text = str(result['result'])
-print(result)
 match = re.search(r'Answer:(.*)', text, re.DOTALL)
 if match:
     answer = match.group(1).strip()
