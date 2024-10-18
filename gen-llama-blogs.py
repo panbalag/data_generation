@@ -41,7 +41,7 @@ def get_llama_response(prompt):
     return(sequences[0]['generated_text'])
 
 def gen_content(name):
-  prompt = 'Write a detailed blog on the fictional game '+ name + " focusing on gameplay, story line, style, sound and music, innovation, etc"
+  prompt = 'Write a detailed blog on the game '+ name + " focusing on gameplay, story line, style, sound and music, innovation, etc"
   print("Generating blog for "+ name)
   content = get_llama_response(prompt)
   file_name = re.sub(r'[^A-Za-z0-9]', '', name)
@@ -57,7 +57,7 @@ def gen_content(name):
 file_path = 'names.json'
 keys_to_find = ['games_retro', 'games_fictional']
 data = read_json_file(file_path)
-#for item in data['games_retro']:
-#  gen_content(item)
-for item in data['games_fictional']:
+for item in data['games_retro']:
   gen_content(item)
+#for item in data['games_fictional']:
+#  gen_content(item)
