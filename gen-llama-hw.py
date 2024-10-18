@@ -41,12 +41,13 @@ def get_llama_response(prompt):
     return(sequences[0]['generated_text'])
 
 def gen_content(name):
-  prompt = 'Write a comprehensive buying guide for the gaming system '+ name
+  #prompt = 'Write a comprehensive buying guide for the gaming system '+ name
+  prompt = 'Write a comprehensive hardware condition and grading guide for the gaming system '+ name
   print("Generating buying guide for "+ name)
   content = get_llama_response(prompt)
   file_name = re.sub(r'[^A-Za-z0-9]', '', name)
   file_name = file_name[:20] if len(file_name) > 20 else file_name
-  file_path = "content/" + file_name +".txt"  # You can change this to your desired file name or path
+  file_path = "content/hw_grading/" + file_name +".txt"  # You can change this to your desired file name or path
   print(f"Writing to {file_path}")
   # Save the content to file
   with open(file_path, 'w') as file:
