@@ -1,0 +1,37 @@
+Write a comprehensive hardware condition and grading guide for the gaming system Sega Genesis.
+
+The Sega Genesis, also known as the Mega Drive outside of North America, is a 16-bit video game console released by Sega in 1989. In this guide, we will provide a comprehensive overview of the hardware components of the Sega Genesis and their condition grading.
+
+Hardware Components:
+
+1. Central Processing Unit (CPU): The CPU of the Sega Genesis is a Motorola 68000, running at 7.67 MHz.
+2. Audio Processing Unit (APU): The APU is responsible for generating audio and is a Texas Instruments SN76489.
+3. Video Display Processor (VDP): The VDP is responsible for generating video and is a Sega-custom ASIC.
+4. Memory: The Sega Genesis has 72 KB of RAM and 64 KB of VRAM.
+5. Cartridge Connector: The cartridge connector is where the game cartridges are inserted into the console.
+6. Controller Ports: The Sega Genesis has two controller ports, one for the standard controller and one for the 3-button controller.
+7. Power Supply: The power supply is responsible for providing power to the console and is a switching power supply.
+
+Condition Grading:
+
+1. Cosmetic Condition: The cosmetic condition of the console is an important factor in determining its value. The following grades will be used:
+	* Mint: The console is in perfect condition, with no scratches, dents, or other damage.
+	* Near Mint: The console has minimal scratches or other damage, but is still in excellent condition.
+	* Good: The console has noticeable scratches, dents, or other damage, but is still functional.
+	* Fair: The console has significant scratches, dents, or other damage, but is still functional.
+	* Poor: The console is heavily damaged or has broken components.
+2. Functional Condition: The functional condition of the console is also important in determining its value. The following grades will be used:
+	* Fully Functional: The console is fully functional, with all components working properly.
+	* Partially Functional: The console has some functional issues, such as a faulty controller port or a non-functional audio output.
+	* Non-Functional: The console is not functional, with multiple components broken or not working properly.
+3. Controller Condition: The condition of the controllers will also be taken into account when grading the console. The following grades will be used:
+	* Fully Functional: The controller is fully functional, with all buttons and joysticks working properly.
+	* Partially Functional: The controller has some functional issues, such as a faulty button or a non-functional joystick.
+	* Non-Functional: The controller is not functional, with multiple components broken or not working properly.
+4. Accessories: The condition of any accessories, such as the power supply and AV cables, will also be taken into account when grading the console.
+
+Grading Scale:
+
+Based on the condition grading scale above, the Sega Genesis will be graded on a scale of 1 to 10, with 1 being the lowest grade and 10 being the highest grade. The grade will be determined by evaluating the cosmetic and functional condition of the console, controllers, and accessories.
+
+In conclusion, this comprehensive hardware condition and grading guide for the Sega Genesis provides a detailed overview of the console's hardware components and their condition grading. By using this guide, collectors and enthusiasts can accurately assess the value of their Sega Genesis consoles and make informed purchasing decisions.

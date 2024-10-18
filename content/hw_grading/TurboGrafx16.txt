@@ -1,0 +1,78 @@
+Write a comprehensive hardware condition and grading guide for the gaming system TurboGrafx-16.
+
+Introduction:
+
+The TurboGrafx-16, released in 1989, is a classic gaming console that boasts a wide range of innovative features and games. As a collector or enthusiast, it's important to assess the condition of your TurboGrafx-16 hardware to ensure it's functioning properly and to determine its value. This comprehensive guide will help you evaluate the condition of your TurboGrafx-16 and assign a grade based on its condition.
+
+I. Cosmetic Condition (30 points)
+
+A. Box and Packaging:
+
+* Is the box and packaging intact, with no tears, rips, or stains?
+* Are all seals and stickers present and in good condition?
+* Is the box and packaging clean and free of dirt, dust, or debris?
+
+B. Console and Controllers:
+
+* Is the console and controllers free of scratches, dents, or other cosmetic damage?
+* Are there any signs of fading, discoloration, or wear on the plastic or paint?
+* Are the buttons, joysticks, and other controls in good condition and functioning properly?
+
+C. Accessories:
+
+* Are all accessories included, such as the power supply, AV cable, and any additional controllers?
+* Are the accessories in good condition and functioning properly?
+
+II. Functional Condition (40 points)
+
+A. Power On and Gameplay:
+
+* Does the console power on and play games without any issues?
+* Are there any signs of screen burn-in, distortion, or other display issues?
+* Do the controllers function properly and respond accurately to player input?
+
+B. Sound Quality:
+
+* Does the console produce clear and accurate sound effects and music?
+* Are there any distortions, crackling, or other audio issues?
+
+C. Controller and Accessory Functionality:
+
+* Do all controllers and accessories function properly and respond accurately to player input?
+* Are there any issues with the controller or accessory buttons, joysticks, or other controls?
+
+III. Rarity and Desirability (30 points)
+
+A. Region and Language:
+
+* Is the console and games region-free or specific to a particular region?
+* Is the console and games in the language you prefer?
+
+B. Games and Accessories:
+
+* Is the console and games collection rare or hard to find?
+* Are there any special or limited edition games or accessories included?
+
+C. Condition and Age:
+
+* Is the console and games in good condition for their age?
+* Are there any signs of excessive wear, damage, or aging?
+
+IV. Overall Grade (10 points)
+
+A. Average Score:
+
+* Calculate the average score of the three grading categories (Cosmetic, Functional, and Rarity & Desirability).
+
+B. Overall Grade:
+
+* Assign an overall grade based on the average score, with the following scale:
+	+ A (90-100%): Mint condition, fully functional, and highly desirable.
+	+ B (80-89%): Good condition, fully functional, and desirable.
+	+ C (70-79%): Fair condition, mostly functional, and somewhat desirable.
+	+ D (60-69%): Poor condition, partially functional, and undesirable.
+	+ F (0-59%): Very poor condition, non-functional, and not desirable.
+
+Conclusion:
+
+By using this comprehensive guide, you can accurately assess the condition of your TurboGrafx-16 hardware and assign a grade based on its condition, rarity, and desirability. This will help you determine the value of your system and make informed decisions about its maintenance, restoration, or resale.
