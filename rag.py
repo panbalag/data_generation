@@ -55,7 +55,6 @@ vectorstore = Milvus.from_documents(
     connection_args={"uri": MILVUS_URL},
 )
 
-#vectorstore.similarity_search(query, k=1)
 template = """
 You are an expert on gaming systems and games.
 You will be given a question and some context to help you answer it.
@@ -67,24 +66,27 @@ Question:
 """
 
 #Download the model locally
-model_name = "meta-llama/Llama-2-7b-hf" 
-#model_name="meta-llama/Llama-2-13b-hf"
+#model_name = "meta-llama/Llama-2-7b-hf" 
+model_name="meta-llama/Llama-2-13b-hf"
 tokenizer = LlamaTokenizer.from_pretrained(model_name)
 model = LlamaForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map="auto")
 
-
 QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
-hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10, max_new_tokens=2000)
+hf_pipeline = pipeline("text-generation", model=model, tokenizer=tokenizer,temperature=1e-10,max_new_tokens=2000)
 llm = HuggingFacePipeline(pipeline=hf_pipeline)
 qa_chain = RetrievalQA.from_chain_type(llm=llm, chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}, retriever=vectorstore.as_retriever(), return_source_documents=False)
-question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the fictional game Cyberduck?"
-result = qa_chain.invoke({"query": question})
-text = str(result['result'])
-match = re.search(r'Answer:(.*)', text, re.DOTALL)
-if match:
-    answer = match.group(1).strip()
-    print(clean_output(answer))
-else:
-    print("No 'Answer:' found in the text.")
 
+games=["Mario Kart VR", "Tetris VR", "Grant's escape adventure", "Retro911 to the rescue", "AmigaTales", "Frank and the wombats", "Sir Cedric of the East Village Sim", "Taylor's Cat hoarding sim", "Legare's university 2k25", "Street Taco Bonanza", "Flipping Waffles", "Best Chronicles", "Cyberduck", "Escape from Broadcom", "Ridge rager", "Super Mario Bros",   "The Legend of Zelda","Pac-Man","Sonic the Hedgehog","Tetris","Street Fighter II","Donkey Kong",    "Final Fantasy VII","Space Invaders","Castlevania","Mega Man 2",    "Doom","Galaga",        "Metroid",  "Contra"]
 
+gaming_systems= ["Cat9600","Intellico",   "Switchblade",  "GraniteTastic","iGameLab","16bitClaw","TheClaw","pipinstaller",    "genConsole",   "Force5",   "NinjaX",   "Neo X","Magneto OdX",  "TinTin 2000",  "DynoVision", "Atari 2600","Nintendo Entertainment System",   "Sega Genesis","Super Nintendo Entertainment System",   "Sega Saturn",  "Sony PlayStation", "Nintendo 64",  "Sega Dreamcast",   "Game Boy", "Commodore 64","TurboGrafx-16", "Atari Lynx",   "Panasonic 3D0",    "TurboGrafx-16",    "Sega Saturn"]
+
+for game in games:
+  output_file = "content/cheat_sheet/" + game +".txt"
+  print("Generating cheat sheet for the game " + game + " .... IN PROGRESS")
+  question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the game " + game
+  result = qa_chain.invoke({"query": question})
+  text = str(result['result'])
+  print("Writing output to file " +  output_file)
+  with open(output_file, "w") as f:
+      f.write(text)
+  print("Generating cheat sheet for the game " + game + " .... COMPLETE!")
