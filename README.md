@@ -1,4 +1,4 @@
-This repo contains scripts to automatically generate data using LLAMA2 13 Model.
+This repo contains scripts to automatically generate data using LLAMA2 13B Model. For faster generation, you can switch to LLAMA2 7B.
 
 Requirements:
 
@@ -10,6 +10,8 @@ Requirements:
      pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
      For older versions of CUDA, refer 
      https://pytorch.org/get-started/locally/
+4) pip3 install -r requirements.txt
+5) huggingface-cli login
 
 Steps:
 
