@@ -1,0 +1,30 @@
+Write a comprehensive hardware condition and grading guide for the fictional gaming system Switchblade, a cube-shaped console powered by a 16-bit processor and 128KB RAM, offering two-player capabilities and a diverse library of quirky puzzle games and arcade hits with stunning sprite art.
+
+As a gaming enthusiast, you've just acquired a rare and highly sought-after Switchblade console. Congratulations! However, before you start playing, you'll need to assess the hardware condition of your new console to ensure it's functioning optimally. Here's a comprehensive guide to help you evaluate the condition of your Switchblade and determine its grading.
+
+Cosmetic Condition (90% of total grading)
+
+1. Box and Packaging: Check for any tears, creases, or signs of wear on the box and packaging. A pristine box with no damage will score higher than one with visible wear.
+2. Controller: Assess the condition of the controller, including the joysticks, buttons, and D-pad. Missing or damaged components will lower the grading.
+3. Console Shell: Examine the console shell for any scratches, dents, or discoloration. A flawless shell will score higher than one with noticeable blemishes.
+4. Faceplate: Check the condition of the faceplate, which is the plastic cover that adorns the front of the console. A scratch-free faceplate will receive a higher grade than one with scratches or other damage.
+5. Cables and Connectors: Inspect the cables and connectors for any signs of wear or damage. Frayed or damaged cables can reduce the grading.
+
+Functional Condition (10% of total grading)
+
+1. Power-On Test: Plug in the console and power it on. If it boots up without any issues, it will receive a higher grade than one that fails to power on or exhibits unusual behavior.
+2. Gameplay Test: Play a few games to ensure the console is functioning properly. Any issues with gameplay, such as freezing or glitching, will lower the grading.
+3. Sound and Video Quality: Check the audio and video quality during gameplay. Any distortions or visual artifacts will reduce the grading.
+
+Grading Scale
+
+Based on the assessment of the cosmetic and functional condition, the Switchblade console will be graded on a scale of 1 to 10, with 10 being the highest. Here's the grading scale:
+
+* 10: Mint condition, no visible wear or damage, perfect functioning.
+* 9: Excellent condition, minor wear or damage, near-perfect functioning.
+* 8: Good condition, noticeable wear or damage, functioning well.
+* 7: Fair condition, moderate wear or damage, functioning adequately.
+* 6: Poor condition, significant wear or damage, functioning poorly.
+* 5: Unplayable condition, severe wear or damage, not functional.
+
+Now that you have a comprehensive guide to assessing the hardware condition and grading of your Switchblade console, you're ready to start playing your quirky puzzle games and arcade hits with stunning sprite art. Happy gaming!
