@@ -2,8 +2,8 @@ This repo contains scripts to automatically generate data using LLAMA2 13B Model
 
 Layout:
 
-The repo contains generated content for real and fictional retro games and gaming systems. The list of games and gaming
-systems can be found in names.json
+The repo contains generated content (~440K tokens) for real and fictional retro games and gaming systems. The list of games and gaming
+systems can be found in names.json.
 
 Content (content/)
 ==================
