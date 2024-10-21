@@ -36,12 +36,10 @@ Requirements:
      https://pytorch.org/get-started/locally/
 4) git clone https://github.com/panbalag/data_generation.git
 4) pip3 install -r requirements.txt
-5) huggingface-cli login
+5) pip install huggingface_hub
 
 Steps:
 ======
-1) The user will need to install the library to interact with the Hugging Face Hub and login to Hugging Face in order to access the model. 
-   pip install huggingface_hub
-   huggingface-cli login
+1) huggingface-cli login
 2) python gen-llama.py
 
