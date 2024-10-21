@@ -5,21 +5,25 @@ Layout:
 The repo contains generated content (~440K tokens) for real and fictional retro games and gaming systems. The list of games and gaming
 systems can be found in names.json.
 
-Content (content/)
+# Content (content/)
 ==================
-Game Strategy Consulting: Tips and tricks to master those challenging old-school games
-  |------ Game walkthough guide (/game_guide)
-  |------ Character guide (/character_guide)
-  |------ Cheat sheets (/cheat_sheet)
-Hardware Sourcing Assistance: Guidance on finding rare and vintage gaming systems
-  |------ Buying guide (/hw_guide)
-  |------ Hardware condition and grading guide (/hw_grading)
-Restoration Support: Advice on restoring and maintaining retro hardware.
-  |------ Restoration guide (/hw_restoration)
-  |------ controller repair and maintenance guide (/hw_repair)
-  |------ Troubleshooting guide (/hw_troubleshoot)
-Community Forums: Connect with fellow retro gamers to share experiences and knowledge.
-  |------ Blogs on games and gaming systems (/blog)
+
+## Game Strategy Consulting: Tips and tricks to master those challenging old-school games
+- Game walkthrough guide: `/game_guide`
+- Character guide: `/character_guide`
+- Cheat sheets: `/cheat_sheet`
+
+## Hardware Sourcing Assistance: Guidance on finding rare and vintage gaming systems
+- Buying guide: `/hw_guide`
+- Hardware condition and grading guide: `/hw_grading`
+
+## Restoration Support: Advice on restoring and maintaining retro hardware
+- Restoration guide: `/hw_restoration`
+- Controller repair and maintenance guide: `/hw_repair`
+- Troubleshooting guide: `/hw_troubleshoot`
+
+## Community Forums: Connect with fellow retro gamers to share experiences and knowledge
+- Blogs on games and gaming systems: `/blog`
 
 Requirements:
 =============

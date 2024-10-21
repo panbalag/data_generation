@@ -66,8 +66,8 @@ Question:
 """
 
 #Download the model locally
-model_name = "meta-llama/Llama-2-7b-hf" 
-#model_name="meta-llama/Llama-2-13b-hf"
+#model_name = "meta-llama/Llama-2-7b-hf" 
+model_name="meta-llama/Llama-2-13b-hf"
 tokenizer = LlamaTokenizer.from_pretrained(model_name)
 model = LlamaForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map="auto")
 
@@ -81,13 +81,14 @@ games=["Mario Kart VR", "Tetris VR", "Grant's escape adventure", "Retro911 to th
 gaming_systems= ["Cat9600","Intellico",   "Switchblade",  "GraniteTastic","iGameLab","16bitClaw","TheClaw","pipinstaller",    "genConsole",   "Force5",   "NinjaX",   "Neo X","Magneto OdX",  "TinTin 2000",  "DynoVision", "Atari 2600","Nintendo Entertainment System",   "Sega Genesis","Super Nintendo Entertainment System",   "Sega Saturn",  "Sony PlayStation", "Nintendo 64",  "Sega Dreamcast",   "Game Boy", "Commodore 64","TurboGrafx-16", "Atari Lynx",   "Panasonic 3D0",    "TurboGrafx-16",    "Sega Saturn"]
 
 for game in games:
-  output_file = "content/character_guide/" + game +"_cg.txt"
-  print("Generating character guide for the game " + game + " .... IN PROGRESS")
-  #question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the game " + game
-  question = "Give me a comprehensive character guide including character's backstory, abilities, strengths and weaknesses for the game " + game
+  output_file = "content/cheat_sheet/" + game +".txt"
+  print("Generating cheat sheet for the game " + game + " .... IN PROGRESS")
+  question = "Give me a comprehensive cheat sheet including key points, strategies, important items, tips for quick reference, for the game " + game
+  # Question to use for generating character guide
+  # question = "Give me a comprehensive character guide including character's backstory, abilities, strengths and weaknesses for the game " + game
   result = qa_chain.invoke({"query": question})
   text = str(result['result'])
   print("Writing output to file " +  output_file)
   with open(output_file, "w") as f:
       f.write(text)
-  print("Generating character guide for the game " + game + " .... COMPLETE!")
+  print("Generating cheat sheet for the game " + game + " .... COMPLETE!")
