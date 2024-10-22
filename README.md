@@ -8,12 +8,12 @@ systems can be found in names.json.
 ### Content (content/)
 
 #### Game Strategy Consulting: Tips and tricks to master those challenging old-school games
-- Game walkthrough guide: `/game_guide`
+- Game walkthrough guide: `/game_walkthrough`
 - Character guide: `/character_guide`
 - Cheat sheets: `/cheat_sheet`
 
 #### Hardware Sourcing Assistance: Guidance on finding rare and vintage gaming systems
-- Buying guide: `/hw_guide`
+- Buying guide: `/hw_buying_guide`
 - Hardware condition and grading guide: `/hw_grading`
 
 #### Restoration Support: Advice on restoring and maintaining retro hardware
@@ -35,11 +35,12 @@ Requirements:
      For older versions of CUDA, refer 
      https://pytorch.org/get-started/locally/
 4) git clone https://github.com/panbalag/data_generation.git
-4) pip3 install -r requirements.txt
-5) pip install huggingface_hub
+5) cd data_generation
+5) pip3 install -r requirements.txt
 
 Steps:
 ======
 1) huggingface-cli login
 2) python gen-llama.py
+   Note: Select a model, prompt and output directory before running the script
 
