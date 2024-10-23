@@ -1,0 +1,2 @@
+Question: What is the goal of Street Fighter II?
+Answer: The goal of Street Fighter II is to defeat your opponent in a one-on-one match.
