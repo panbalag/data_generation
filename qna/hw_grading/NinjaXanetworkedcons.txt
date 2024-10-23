@@ -1,0 +1,2 @@
+Question: What are the components of the NinjaX gaming console?
+Answer: The NinjaX gaming console has the following components: * CPU (Central Processing Unit): A 32-bit CPU with 512KB RAM * RAM (Random Access Memory): 512KB RAM * Storage: 128MB of storage space * Graphics Processing Unit (GPU): A high-performance GPU * Networking: High-speed networking capabilities * Power Supply: A high-quality power supply * Controller: A high-quality controller * Additional Features: Wi-Fi and Bluetooth connectivity

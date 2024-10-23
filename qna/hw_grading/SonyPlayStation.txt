@@ -1,0 +1,5 @@
+Question: What is the grading system for assessing the condition of each hardware component of the PlayStation 3?
+Answer: To assess the condition of the PlayStation 3's hardware components, we will use a grading system ranging from 1 to 10, with 1 being the worst condition and 10 being the best.
+
+
+

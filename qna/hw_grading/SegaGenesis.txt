@@ -1,0 +1,23 @@
+Question: What is the Sega Genesis?
+Answer: The Sega Genesis is a 16-bit video game console released by Sega in 1989.
+
+Question: What are the hardware components of the Sega Genesis?
+Answer: The hardware components of the Sega Genesis include a central processing unit (CPU), audio processing unit (APU), video display processor (VDP), memory, cartridge connector, controller ports, and power supply.
+
+Question: What is the condition grading guide for the Sega Genesis?
+Answer: The condition grading guide for the Sega Genesis includes cosmetic condition, functional condition, controller condition, and accessories. The grade is determined by evaluating the cosmetic and functional condition of the console and its accessories.
+
+Question: What is the grade scale for the Sega Genesis?
+Answer: The grade scale for the Sega Genesis is 1 to 10, with 1 being the lowest grade and 10 being the highest grade.
+
+Question: What is the condition grading scale for the Sega Genesis?
+Answer: The condition grading scale for the Sega Genesis includes cosmetic condition, functional condition, controller condition, and accessories. The grade is determined by evaluating the cosmetic and functional condition of the console and its accessories.
+
+Question: What is the cosmetic condition grading scale for the Sega Genesis?
+Answer: The cosmetic condition grading scale for the Sega Genesis includes mint, near mint, good, fair, poor, and non-functional. The grade is determined by evaluating the cosmetic condition of the console and its accessories.
+
+Question: What is the controller condition grading scale for the Sega Genesis?
+Answer: The controller condition grading scale for the Sega Genesis includes fully functional, partially functional, and non-functional. The grade is determined by evaluating the controller condition of the console and its accessories.
+
+Question: What is the accessories grading scale for the Sega Genesis?
+Answer: The accessories grading scale for the Sega Genesis includes fully functional, partially functional, and non-functional. The grade is determined by evaluating the accessories condition of the console and its accessories.
