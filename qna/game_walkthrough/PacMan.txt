@@ -1,0 +1,2 @@
+Question: What is the objective of the game Pac-Man?
+Answer: The objective of the game Pac-Man is to eat all the pellets in the maze while avoiding the ghosts.

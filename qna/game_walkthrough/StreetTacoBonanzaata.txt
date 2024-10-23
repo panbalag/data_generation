@@ -1,0 +1,4 @@
+Question: What is the objective of the game Street Taco Bonanza?
+Answer: The objective of the game Street Taco Bonanza is to reduce your opponent's life total to zero before they can do the same to you.
+
+

@@ -1,0 +1,26 @@
+Question: What is the objective of the game Tetris?
+Answer: The objective of Tetris is to create a solid line of blocks without any gaps.
+
+Question: How can you create a solid line in Tetris?
+Answer: To create a solid line in Tetris, you need to place the Tetriminos carefully to fill in the gaps. You can rotate and move the Tetriminos to fit into the gaps.
+
+Question: What is the next block preview in Tetris?
+Answer: The next block preview is a feature that shows you the next Tetrimino that will fall.
+
+Question: How can you manage your speed in Tetris?
+Answer: To manage your speed in Tetris, you need to adjust the speed control to keep up with the blocks.
+
+Question: What is the soft drop in Tetris?
+Answer: The soft drop is a feature that allows you to drop the Tetriminos slowly instead of dropping them quickly.
+
+Question: What is the hard drop in Tetris?
+Answer: The hard drop is a feature that allows you to drop the Tetriminos quickly to the bottom of the playing field.
+
+Question: What are the different game modes in Tetris?
+Answer: Tetris has several game modes, including Marathon, Sprint, and Ultra. Each game mode has different rules and objectives.
+
+Question: How can you practice and improve your skills in Tetris?
+Answer: To become a pro at Tetris, you need to practice and improve your skills. You can practice by playing the game regularly.
+
+
+

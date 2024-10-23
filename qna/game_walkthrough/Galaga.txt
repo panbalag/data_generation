@@ -1,0 +1,2 @@
+Question: What are the controls for Galaga?
+Answer: The controls for Galaga are as follows: Left and right arrow keys - Move ship Up and down arrow keys - Fire weapon Spacebar - Fire special weapon 1-4 - Select weapon

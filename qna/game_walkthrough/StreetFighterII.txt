@@ -1,0 +1,8 @@
+Question: How do I play Street Fighter II?
+Answer: To play Street Fighter II, you need to select a character and choose a game mode. You can then use punches, kicks, and special moves to defeat your opponent.
+
+Question: What are the controls for Street Fighter II?
+Answer: The controls for Street Fighter II are as follows: * Ryu: + Punch: P + Kick: K + Special Move: Hadouken (fireball) * Ken: + Punch: P + Kick: K + Special Move: Shoryuken (dragon punch) * Chun-Li: + Punch: P + Kick: K + Special Move: Hyakuretsu Kyaku (hundred hand slaps) * Guile: + Punch: P + Kick: K + Special Move: Sonic Boom * Blanka: + Punch: P + Kick: K + Special Move: Electric Thunder * Zangief: + Punch: P + Kick: K + Special Move: Spinning Piledriver * Dhalsim: + Punch: P + Kick: K + Special Move: Yoga Fire
+
+
+

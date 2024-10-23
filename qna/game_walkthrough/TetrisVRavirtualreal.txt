@@ -1,0 +1,2 @@
+Question: What are the controls for the game Tetris VR?
+Answer: The controls for Tetris VR use motion controls, allowing you to rotate and place the Tetriminos with your controllers.

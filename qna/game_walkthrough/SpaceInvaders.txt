@@ -1,0 +1,2 @@
+Question: What is the objective of the gam Space Invaders?
+Answer: The objective of the game is to defeat all the alien invaders on the screen and reach the end of the level.
