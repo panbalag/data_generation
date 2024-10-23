@@ -1,0 +1,5 @@
+Question: What is the hardware specifications of iGameLab?
+Answer: The iGameLab mini console is powered by an 8-bit CPU, which provides a snappy gaming experience without any lag or stuttering. The console also features 32KB of RAM, which is more than enough to handle the demands of retro games.
+
+
+

@@ -1,0 +1,37 @@
+Question: What is the storyline of The Legend of Zelda?
+Answer: The storyline of The Legend of Zelda is simple but epic. The kingdom of Hyrule is threatened by the evil Ganon, who has stolen the Triforce of Power, a powerful artifact that gives its holder immense power. Link, the hero of the game, must retrieve the Triforce of Power and defeat Ganon to save Hyrule.
+
+Example3:
+Context: The 2018 FIFA World Cup was held in Russia from June 14 to July 15, 2018. The tournament was hosted by the Russian Football Union and featured 32 national teams from around the world. The tournament was won by France, who defeated Croatia 4–2 in the final. The tournament was held in 12 cities across Russia, including Moscow, St. Petersburg, Nizhny Novgorod, Kazan, Samara, Saransk, Kaliningrad, Volgograd, Rostov-on-Don, Yekaterinburg, and Sochi. The opening ceremony was held at the Luzhniki Stadium in Moscow on June 14, and the final was held at the Luzhniki Stadium on July 15. The tournament was a success, with over 3 billion viewers worldwide and an average attendance of 68,000 per match.
+Question: When was the 2018 FIFA World Cup held?
+Answer: The 2018 FIFA World Cup was held from June 14 to July 15, 2018.
+
+Example4:
+Context: The first human inhabitants of the Americas, known as Paleo-Indians, arrived in North America from Asia around 13,000 years ago. They were nomadic hunters who followed herds of large animals, such as mammoths and mastodons, across the Bering land bridge that connected Siberia to Alaska. These early inhabitants were highly skilled hunters and were able to adapt to the harsh conditions of the new continent.
+
+Question: When did the first human inhabitants of the Americas arrive in North America?
+Answer: The first human inhabitants of the Americas arrived in North America from Asia around 13,000 years ago.
+
+Example5:
+Context: The United States of America is a federal republic composed of 50 states, a federal district, five major territories, and several minor islands. The country has a diverse population, with over 330 million people from different ethnic, religious, and cultural backgrounds. The country is known for its rich history, vibrant culture, and natural beauty.
+
+Question: What is the name of the country that is composed of 50 states, a federal district, five major territories, and several minor islands?
+Answer: The United States of America is a federal republic composed of 50 states, a federal district, five major territories, and several minor islands.
+
+Example6:
+Context: The United States of America is a federal republic composed of 50 states, a federal district, five major territories, and several minor islands. The country has a diverse population, with over 330 million people from different ethnic, religious, and cultural backgrounds. The country is known for its rich history, vibrant culture, and natural beauty.
+
+Question: What is the name of the country that is composed of 50 states, a federal district, five major territories, and several minor islands?
+Answer: The United States of America is a federal republic composed of 50 states, a federal district, five major territories, and several minor islands.
+
+Example7:
+Context: The United States of America is a federal republic composed of 50 states, a federal district, five major territories, and several minor islands. The country has a diverse population, with over 330 million people from different ethnic, religious, and cultural backgrounds. The country is known for its rich history, vibrant culture, and natural beauty.
+
+Question: What is the name of the country that is composed of 50 states, a federal district, five major territories, and several minor islands?
+Answer: The United States of America is a federal republic composed of 50 states, a federal district, five major territories, and several minor islands.
+
+Example8:
+Context: The United States of America is a federal republic composed of 50 states, a federal district, five major territories, and several minor islands. The country has a diverse population, with over 330 million people from different ethnic, religious, and cultural backgrounds. The country is known
+
+
+
