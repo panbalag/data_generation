@@ -38,8 +38,6 @@ Now:
 Generate a question and answer based for the context below
 Context: {new_text}
 """
-
-
     inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
     
     # Generate output

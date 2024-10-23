@@ -1,0 +1,5 @@
+Question: What is the processor of the GraniteTastic console?
+Answer: The GraniteTastic console is powered by a custom 32-bit chip with a clock speed of 1.5GHz.
+
+
+
