@@ -1,24 +1,2 @@
 Question: What is the story of Donkey Kong Country 2: Diddy's Kong Quest?
 Answer: The game starts with Diddy Kong, a young monkey, and his friend Dixie Kong, a pink monkey, setting out to rescue Donkey Kong from the evil King K. Rool and his Kremlings. The two friends must journey through the jungle, swamps, and mountains to reach King K. Rool's castle and defeat him.
-
-### Example 3:
-Generate a question and answer for the context provided under Example2 and Example3.
-
-Example2:
-Context: The Amazon rainforest is the largest tropical rainforest in the world, spanning across several countries in South America. It is known for its biodiversity and plays a crucial role in regulating the Earth's oxygen and carbon cycles.
-
-Question: What is the Amazon rainforest known for?
-Answer: The Amazon rainforest is known for its biodiversity and its role in regulating Earth's oxygen and carbon cycles.
-
-Example3:
-Context: Photosynthesis is a crucial biological process that allows plants, algae, and certain bacteria to convert light energy into chemical energy. It is the foundation of life on Earth, as it is responsible for producing the oxygen we breathe and the food we consume. The process primarily takes place in the chloroplasts of plant cells, specifically within the green pigment chlorophyll, which captures sunlight. Photosynthesis occurs in two main stages: the light-dependent reactions and the light-independent reactions, or the Calvin cycle. In the light-dependent reactions, which occur in the thylakoid membranes of the chloroplast, sunlight is absorbed by chlorophyll and other pigments. This energy is used to split water molecules (H₂O) into oxygen, protons, and electrons. The oxygen is released as a byproduct, while the energy from the electrons is used to create energy-rich molecules, such as ATP (adenosine triphosphate) and NADPH (nicotinamide adenine dinucleotide phosphate). The Calvin cycle, which takes place in the stroma of the chloroplast, uses the ATP and NADPH generated from the light-dependent reactions to convert carbon dioxide (CO₂) into glucose, a type of sugar. During this stage, carbon dioxide from the atmosphere is captured and, through a series of enzyme-driven reactions, is incorporated into organic molecules. These molecules are eventually converted into glucose, which plants use as an energy source for growth, reproduction, and other functions. Photosynthesis is vital not only for plants but for nearly all life on Earth. By producing oxygen and organic compounds, it supports ecosystems and maintains the balance of gases in the atmosphere.
-
-Question: Where does photosynthesis occur in plant cells?
-Answer: Photosynthesis occurs mainly in the chloroplasts of plant cells.
-
-Now:
-Generate a question and answer based for the context below
-Context: Write a detailed game walkthrough guide for the game Donkey Kong Country 2: Diddy's Kong Quest. Donkey Kong Country 2: Diddy's Kong Quest is a platformer game developed by Rare and released for the Super Nintendo Entertainment System (SNES) in 1995. The game follows the adventures of Diddy Kong and his friends as they try to rescue Donkey Kong from the clutches of the evil King K. Rool and his Kremlings. Here is a detailed walkthrough guide for the game: Donkey Kong Country 2: Diddy's Kong Quest is a challenging platformer game that requires skill and strategy to complete. In this walkthrough guide, we will help you navigate through the game's levels, collect all the bananas, and defeat the bosses to rescue Donkey Kong. Story** The game starts with Diddy Kong, a young monkey, and his friend Dixie Kong, a pink monkey, setting out to rescue Donkey Kong from the evil King K. Rool and his Kremlings. The two friends must journey through the jungle, swamps, and mountains to reach King K. Rool's castle and defeat him. Gameplay** The gameplay is similar to the first Donkey Kong Country game. You control Diddy Kong or Dixie Kong as they run, jump, and climb through the levels, collecting
-
-
-

@@ -1,29 +1,2 @@
 Question: What is the story of Ridge Rager?
 Answer: The story of Ridge Rager takes place across multiple alternate dimensions, each with its own unique culture, history, and physics. Players will compete in a series of races across these dimensions, each with its own challenges and objectives. The ultimate goal of the game is to become the Ridge Rager champion, a title that has been held by the greatest racers across the dimensions.
-
-### Generate Question and Answer based on the context given below
-Context: The story of Ridge Rager takes place across multiple alternate dimensions, each with its own unique culture, history, and physics. Players will compete in a series of races across these dimensions, each with its own challenges and objectives. The ultimate goal of the game is to become the Ridge Rager champion, a title that has been held by the greatest racers across the dimensions.
-
-Question: How do players manipulate the laws of physics in Ridge Rager?
-Answer: Players will have access to a variety of power-ups and abilities that will allow them to bend the laws of gravity, time, and space to their advantage. For example, players can use a "Gravity Shift" power-up to change the direction of their vehicle's gravity, allowing them to drive on walls and ceilings. Another innovative feature of Ridge Rager is the use of "Rage Mode." When a player's vehicle is damaged or they are in danger of losing a race, they can activate Rage Mode, which will give them a temporary boost in speed and power. However, Rage Mode will also increase the player's risk tolerance, making them more aggressive and prone to taking risks.
-
-### Generate Question and Answer based on the context given below
-Context: The story of Ridge Rager takes place across multiple alternate dimensions, each with its own unique culture, history, and physics. Players will compete in a series of races across these dimensions, each with its own challenges and objectives. The ultimate goal of the game is to become the Ridge Rager champion, a title that has been held by the greatest racers across the dimensions.
-
-Question: What are the unique features of Ridge Rager?
-Answer: One of the unique features of Ridge Rager is the ability to manipulate the laws of physics. Players will have access to a variety of power-ups and abilities that will allow them to bend the laws of gravity, time, and space to their advantage. For example, players can use a "Gravity Shift" power-up to change the direction of their vehicle's gravity, allowing them to drive on walls and ceilings. Another innovative feature of Ridge Rager is the use of "Rage Mode." When a player's vehicle is damaged or they are in danger of losing a race, they can activate Rage Mode, which will give them a temporary boost in speed and power. However, Rage Mode will also increase the player's risk tolerance, making them more aggressive and prone to taking risks.
-
-### Generate Question and Answer based on the context given below
-Context: The story of Ridge Rager takes place across multiple alternate dimensions, each with its own unique culture, history, and physics. Players will compete in a series of races across these dimensions, each with its own challenges and objectives. The ultimate goal of the game is to become the Ridge Rager champion, a title that has been held by the greatest racers across the dimensions.
-
-Question: What is the focus of Ridge Rager's soundtrack?
-Answer: The game's soundtrack will feature a mix of electronic and rock music, with a focus on high-energy tracks that will keep players pumped up and ready to race. Sound effects will be loud and intense, with a focus on the revving of engines, screeching of tires, and crashing of vehicles.
-
-### Generate Question and Answer based on the context given below
-Context: The story of Ridge Rager takes place across multiple alternate dimensions, each with its own unique culture, history, and physics. Players will compete in a series of races across these dimensions, each with its own challenges and objectives. The ultimate goal of the game is to become the Ridge Rager champion, a title that has been held by the greatest racers across the dimensions.
-
-Question: What is the focus of Ridge Rager's art style?
-Answer: Ridge Rager will have a futuristic, sci-fi aesthetic, with sleek and high-tech vehicles and environments. The game's
-
-
-
