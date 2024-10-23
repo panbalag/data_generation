@@ -1,0 +1,2 @@
+Question: What is the power button for the pipinstaller console?
+Answer: The power button is located on the front of the console and is used to turn the console on and off.
