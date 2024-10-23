@@ -1,0 +1,2 @@
+Question: What is the hardware specifications of NinjaX?
+Answer: NinjaX boasts a powerful 32-bit CPU and 512KB RAM, ensuring seamless gameplay and lightning-fast load times.

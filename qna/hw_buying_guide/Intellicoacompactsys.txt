@@ -1,0 +1,4 @@
+Question: What is the Intellico gaming system's CPU?
+Answer: The Intellico gaming system has a 32-bit CPU.
+
+

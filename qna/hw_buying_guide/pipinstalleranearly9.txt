@@ -1,0 +1,2 @@
+Question: What type of processor does the pipinstaller gaming system use?
+Answer: The pipinstaller gaming system uses a 16-bit processor.

@@ -1,0 +1,2 @@
+Question: What was the first console to use a 16-bit processor?
+Answer: The TurboGrafx-16 was the first console to use a 16-bit processor.

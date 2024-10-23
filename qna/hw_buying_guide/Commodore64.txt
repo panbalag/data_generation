@@ -1,0 +1,63 @@
+Question: What is the processor of Commodore 64?
+Answer: The Commodore 64 is powered by a 6510 microprocessor, which is a 1 MHz 8-bit CPU.
+
+Question: What is the memory capacity of Commodore 64?
+Answer: The C64 has 64 KB of RAM and 16 KB of ROM.
+
+Question: What is the resolution of Commodore 64?
+Answer: The system has a resolution of 320 x 200 pixels and supports up to 16 colors.
+
+Question: What is the sound chip of Commodore 64?
+Answer: The system has a distinctive sound chip, the SID (Sound Interface Device), which is known for its high-quality audio.
+
+Question: What is the storage capacity of Commodore 64?
+Answer: The system uses a floppy disk drive for storage, with a maximum capacity of 1541 KB.
+
+Question: What are the expansion ports of Commodore 64?
+Answer: The C64 has a range of expansion ports, including a user port, a joystick port, a serial port, and an expansion port.
+
+Question: What is the price of Commodore 64?
+Answer: The Commodore 64 was one of the most affordable gaming systems of its time, with a price tag of around $595.
+
+Question: What is the gaming library of Commodore 64?
+Answer: The C64 has a vast library of games, including popular titles like "Ghosts 'n Goblins," "Impossible Mission," and "Boulder Dash."
+
+Question: What is the community of Commodore 64?
+Answer: The Commodore 64 has a dedicated community of fans and collectors, with many online forums and resources available for those looking to learn more about the system.
+
+Question: What are the pros and cons of Commodore 64?
+Answer: 1. Affordability 2. Versatility 3. Gaming Library 4. Community 1. Limited Processing Power 2. Limited Storage 3. No Multitasking 4. No Hard Drive 
+
+Question: Where can I buy Commodore 64?
+Answer: 1. Online Marketplaces 2. Specialty Stores 3. Auctions
+
+Question: How can I set up Commodore 64 for gaming?
+Answer: 1. Connect a Joystick 2. Load Games
+
+Question: What is the processor of Commodore 64?
+Answer: The Commodore 64 is powered by a 6510 microprocessor, which is a 1 MHz 8-bit CPU.
+
+Question: What is the memory capacity of Commodore 64?
+Answer: The C64 has 64 KB of RAM and 16 KB of ROM.
+
+Question: What is the resolution of Commodore 64?
+Answer: The system has a resolution of 320 x 200 pixels and supports up to 16 colors.
+
+Question: What is the sound chip of Commodore 64?
+Answer: The system has a distinctive sound chip, the SID (Sound Interface Device), which is known for its high-quality audio.
+
+Question: What is the storage capacity of Commodore 64?
+Answer: The system uses a floppy disk drive for storage, with a maximum capacity of 1541 KB.
+
+Question: What are the expansion ports of Commodore 64?
+Answer: The C64 has a range of expansion ports, including a user port, a joystick port, a serial port, and an expansion port.
+
+Question: What is the price of Commodore 64?
+Answer: The Commodore 64 was one of the most affordable gaming systems of its time, with a price tag of around $595.
+
+Question: What is the gaming library of Commodore 64?
+Answer: The C64 has a vast library of games, including popular titles like "Ghosts 'n Goblins," "Impossible Mission," and "Boulder Dash."
+
+Question: What is the community of Commodore 64?
+Answer: The Commodore 64 has a dedicated community of fans and collectors, with many online forums and resources available for those looking to learn more
+

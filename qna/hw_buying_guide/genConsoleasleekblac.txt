@@ -1,0 +1,23 @@
+Question: What type of processor does the genConsole use?
+Answer: The genConsole uses a 32-bit processor.
+
+Question: What type of RAM does the genConsole have?
+Answer: The genConsole has 128MB RAM.
+
+Question: What type of technology does the genConsole use for lightning-fast load times?
+Answer: The genConsole uses laser technology for lightning-fast load times.
+
+Question: What types of games does the genConsole offer?
+Answer: The genConsole offers classic sci-fi shooters, futuristic racing games, and arcade-style shooters.
+
+Question: What is the name of the first-person shooter game that is set in a distant galaxy?
+Answer: The first-person shooter game is called "Galactic Warfare".
+
+Question: What is the name of the high-speed racing game that takes place in a dystopian future?
+Answer: The high-speed racing game is called "Neon Racers".
+
+Question: What is the name of the classic arcade-style shooter game that challenges you to defeat waves of alien invaders?
+Answer: The classic arcade-style shooter game is called "Cosmic Invaders".
+
+Question: What is the name of the game that is compatible with the genConsole?
+Answer: The game is called "Galactic Warfare".

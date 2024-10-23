@@ -1,0 +1,2 @@
+Question: What is the iGameLab's CPU?
+Answer: The iGameLab's CPU is based on the 8-bit architecture of the original Nintendo Entertainment System (NES) and is capable of delivering smooth and responsive gameplay.
