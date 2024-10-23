@@ -1,0 +1,2 @@
+Question: What are some common issues with the Cat9600 controller?
+Answer: Some common issues with the Cat9600 controller include stick drift, button malfunction, D-pad issues, analog stick issues, and rumble motor issues.

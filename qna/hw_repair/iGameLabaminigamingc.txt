@@ -1,0 +1,5 @@
+Question: How do I fix joy-con drifti in iGameLab?
+Answer: To fix joy-con drift, use a soft brush or a can of compressed air to clean out any dust or debris from the joystick. You can also try adjusting the joystick's calibration in the iGameLab settings.
+
+
+

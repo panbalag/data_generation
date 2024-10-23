@@ -1,0 +1,2 @@
+Question: What issues may occur with the pipinstaller controller?
+Answer: The pipinstaller controller may experience joy stick drift, button malfunctions, D-pad issues, and turbo button malfunction.

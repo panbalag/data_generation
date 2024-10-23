@@ -1,0 +1,2 @@
+Question: What are some common issues with the Magneto OdX controller?
+Answer: Some common issues with the Magneto OdX controller include stuck buttons, drift, and dead zones.
