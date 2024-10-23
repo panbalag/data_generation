@@ -1,0 +1,6 @@
+Question: What are the steps to hardware restoration of genConsole?
+Answer: The steps to hardware restoration of genConsole include cleaning the console, replacing the fan, cleaning the laser lens, replacing the power supply, and replacing the memory.
+
+Question: What are the steps to software restoration of genConsole?
+Answer: The steps to software restoration of genConsole include updating the operating system, restoring the system files, restoring the game files, restoring the save files, and troubleshooting common issues.
+

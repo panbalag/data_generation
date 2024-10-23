@@ -1,0 +1,4 @@
+Question: What are the components of GraniteTastic?
+Answer: GraniteTastic is a gaming console that incorporates holographic projection technology and runs on a custom 32-bit chip with 256MB RAM.
+
+

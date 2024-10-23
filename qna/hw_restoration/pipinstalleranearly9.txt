@@ -1,0 +1,2 @@
+Question: What are some hardware upgrades that can be made to the pipinstaller?
+Answer: The pipinstaller can be upgraded by adding more RAM, replacing worn-out components, and upgrading to a faster processor.
