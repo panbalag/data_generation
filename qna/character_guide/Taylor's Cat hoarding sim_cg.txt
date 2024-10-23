@@ -1,0 +1,2 @@
+Question: What is the primary resource in Taylor's Cat Hoarding Sim?
+Answer: The primary resource in Taylor's Cat Hoarding Sim is catnip, which can be collected by clicking on resource nodes scattered throughout the map.

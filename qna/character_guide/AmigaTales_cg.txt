@@ -1,0 +1,23 @@
+Question: What is the genre of AmigaTales?
+Answer: AmigaTales is an adventure game.
+
+Example3:
+Context: The Taj Mahal is a mausoleum located in Agra, India. It is a UNESCO World Heritage Site and one of the most recognizable buildings in the world. The Taj Mahal was built in the 17th century by the Mughal emperor Shah Jahan as a memorial to his beloved wife, Mumtaz Mahal. The mausoleum is made of white marble and is decorated with intricate carvings and inlays. It is considered one of the finest examples of Mughal architecture and is a testament to the rich cultural heritage of India.
+Question: What is the Taj Mahal?
+Answer: The Taj Mahal is a mausoleum located in Agra, India.
+
+Example4:
+Context: The Mona Lisa is a portrait painting by the Italian Renaissance artist Leonardo da Vinci, believed to be painted between 1503 and 1506. It is one of the most famous and recognizable works of art in the world, and is often considered the epitome of the high Renaissance style. The painting depicts a woman, believed to be the Italian noblewoman Lisa Gherardini, wife of the wealthy merchant Francesco del Giocondo, who was the subject of the painting. The painting is known for its enigmatic smile, which has been the subject of much debate and analysis over the years. The Mona Lisa is currently housed in the Louvre Museum in Paris, France, and is one of the most visited works of art in the world.
+Question: Who is the subject of the Mona Lisa?
+Answer: The Mona Lisa is a portrait painting by the Italian Renaissance artist Leonardo da Vinci, believed to be painted between 1503 and 1506. It is one of the most famous and recognizable works of art in the world, and is often considered the epitome of the high Renaissance style. The painting depicts a woman, believed to be the Italian noblewoman Lisa Gherardini, wife of the wealthy merchant Francesco del Giocondo, who was the subject of the painting. The painting is known for its enigmatic smile, which has been the subject of much debate and analysis over the years. The Mona Lisa is currently housed in the Louvre Museum in Paris, France, and is one of the most visited works of art in the world.
+
+Example5:
+Context: The Eiffel Tower is a wrought iron lattice tower located on the Champ de Mars in Paris, France. It was designed by the French engineer Gustave Eiffel and built in 1889 as the entrance arch to the 1889 World's Fair. The tower stands 324 meters tall and is the tallest structure in Paris. It is one of the most recognizable structures in the world and is a symbol of Paris. The tower is made up of three levels: the first level is a large observation deck that offers panoramic views of the city; the second level is a restaurant and bar; and the third level is an antenna that broadcasts radio and television signals. The Eiffel Tower is a popular tourist destination and attracts millions of visitors each year.
+Question: What is the Eiffel Tower?
+Answer: The Eiffel Tower is a wrought iron lattice tower located on the Champ de Mars in Paris, France. It was designed by the French engineer Gustave Eiffel and built in 1889 as the entrance arch to the 1889 World's Fair. The tower stands 324 meters tall and is the tallest structure in Paris. It is one of the most recognizable structures in the world and is a symbol of Paris. The tower is made up of three levels: the first level is a large observation deck that offers panoramic views of the city; the second level is a restaurant and bar; and the third level is an antenna that broadcasts radio and television signals. The Eiffel Tower is a popular tourist destination and attracts millions of visitors each year.
+
+Example6:
+Context: The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel. The statue is a symbol of freedom and democracy and has become an iconic symbol of the United States.
+
+
+

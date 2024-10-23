@@ -1,0 +1,23 @@
+Question: What is the name of the protagonist of the game Castlevania: Symphony of the Night?
+Answer: The protagonist of the game Castlevania: Symphony of the Night is Alucard, the son of Dracula.
+
+Example3:
+Context: The United States of America is a country located in North America. It is bordered by Canada to the north, Mexico to the south, and the Atlantic Ocean to the east. The country is made up of 50 states, each with its own government and laws. The United States is a federal republic, meaning that power is shared between the national government and the state governments. The country has a rich history, dating back to the colonial era when it was first settled by English colonists. It has since grown to become a global superpower, with a strong economy, a large military, and a diverse population. The United States is known for its democratic values, its commitment to freedom and human rights, and its role as a leader in international affairs. It is also home to many famous landmarks, including the Statue of Liberty, the Grand Canyon, and Niagara Falls. The United States is a country located in North America. It is bordered by Canada to the north, Mexico to the south, and the Atlantic Ocean to the east. The country is made up of 50 states, each with its own government and laws. The United States is a federal republic, meaning that power is shared between the national government and the state governments. The country has a rich history, dating back to the colonial era when it was first settled by English colonists. It has since grown to become a global superpower, with a strong economy, a large military, and a diverse population. The United States is known for its democratic values, its commitment to freedom and human rights, and its role as a leader in international affairs. It is also home to many famous landmarks, including the Statue of Liberty, the Grand Canyon, and Niagara Falls.
+Question: What is the name of the country located in North America?
+Answer: The country located in North America is the United States of America.
+
+Example4:
+Context: The United States of America is a country located in North America. It is bordered by Canada to the north, Mexico to the south, and the Atlantic Ocean to the east. The country is made up of 50 states, each with its own government and laws. The United States is a federal republic, meaning that power is shared between the national government and the state governments. The country has a rich history, dating back to the colonial era when it was first settled by English colonists. It has since grown to become a global superpower, with a strong economy, a large military, and a diverse population. The United States is known for its democratic values, its commitment to freedom and human rights, and its role as a leader in international affairs. It is also home to many famous landmarks, including the Statue of Liberty, the Grand Canyon, and Niagara Falls.
+Question: What is the name of the country located in North America?
+Answer: The name of the country located in North America is the United States of America.
+
+Example5:
+Context: The United States of America is a country located in North America. It is bordered by Canada to the north, Mexico to the south, and the Atlantic Ocean to the east. The country is made up of 50 states, each with its own government and laws. The United States is a federal republic, meaning that power is shared between the national government and the state governments. The country has a rich history, dating back to the colonial era when it was first settled by English colonists. It has since grown to become a global superpower, with a strong economy, a large military, and a diverse population. The United States is known for its democratic values, its commitment to freedom and human rights, and its role as a leader in international affairs. It is also home to many famous landmarks, including the Statue of Liberty, the Grand Canyon, and Niagara Falls.
+Question: What is the name of the country located in North America?
+Answer: The name of the country located in North America is the United States of America.
+
+Example6:
+Context: The United States of America is a country located in North America. It is bordered by Canada to the north, Mexico to the south, and the Atlantic Ocean to the east. The country is made up of 50 states, each with its own government and laws. The United States is a federal republic, meaning that power is shared between the national government and the state governments. The country has a rich history, d
+
+
+
